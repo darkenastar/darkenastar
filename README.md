@@ -1,5 +1,5 @@
 - 👋 Hi, I’m darkenastar
-- 💞️ I’m looking to collaborate on filmmaking across devices and platforms on an enterprise planning level
+- 💞️ I’m looking to collaborate on filmmaking. 
 - I am a Motion Artist and Designer
 I use workflows from Adobe graphics, my camera, to DaVinci resolve, then to Unreal engine.
 <!---
